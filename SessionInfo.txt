@@ -1,0 +1,20 @@
+-----
+matplotlib          3.5.1
+numpy               1.21.5
+pandas              1.4.2
+plotly              5.6.0
+seaborn             0.11.2
+session_info        1.0.0
+-----
+Click to view modules imported as dependencies
+-----
+IPython             8.2.0
+jupyter_client      6.1.12
+jupyter_core        4.9.2
+jupyterlab          3.3.2
+notebook            6.4.8
+-----
+Python 3.9.12 (main, Apr  4 2022, 05:22:27) [MSC v.1916 64 bit (AMD64)]
+Windows-10-10.0.19044-SP0
+-----
+Session information updated at 2022-08-20 16:08
